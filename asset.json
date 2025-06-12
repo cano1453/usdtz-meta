@@ -1,0 +1,7 @@
+{
+  "name": "Tether USD Token",
+  "symbol": "USTD",
+  "description": "Unofficial token matching USDT style. Created for audit & educational use.",
+  "image": "https://raw.githubusercontent.com/cano1453/usdtz-meta/main/tether-usdt-logo.png",
+  "decimals": 6
+}
